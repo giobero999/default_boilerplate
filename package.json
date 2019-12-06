@@ -1,0 +1,21 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.8",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.7"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "description": ""
+}

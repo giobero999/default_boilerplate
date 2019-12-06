@@ -1,0 +1,21 @@
+{
+  "name": "booking",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "gio <giobero999@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2": "^4.0.12",
+    "jquery": "^3.4.1"
+  }
+}
